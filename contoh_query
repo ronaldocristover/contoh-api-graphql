@@ -1,0 +1,13 @@
+# Get Superhero
+{
+  superhero {
+    name, group
+  }
+}
+
+# Add Superhero with Group
+mutation{
+	addSuperhero(name:"Messi", group:"Xmen"){
+    name, group
+  }
+}
