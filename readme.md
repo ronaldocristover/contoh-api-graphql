@@ -5,7 +5,7 @@ By: Ronaldo 2079006
 How to install
 1. Clone Repo
 ```bash
-git clone 
+git clone  https://github.com/ronaldocristover/contoh-api-graphql.git
 ```
 
 2. Install Depedensi
